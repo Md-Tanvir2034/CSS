@@ -12,7 +12,8 @@ html , body{
 
 body{
     background-color: antiquewhite;
-   
+    display: flex ;
+    align-items: center;
 }
 
 
